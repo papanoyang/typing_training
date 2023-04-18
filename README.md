@@ -11,11 +11,11 @@ PhaserベースでTypeScript+Viteで制作。
 
 ダウンロード後、プロジェクトフォルダにて以下のコマンドで必要なモジュールインストールする。
 
-```TypeScript:Module Install
+```Shell:Module Install
 npm install
 ```
 
 実行は以下のコマンド
-```TypeScript:Run
+```Shell:Run
 npm run dev
 ```
